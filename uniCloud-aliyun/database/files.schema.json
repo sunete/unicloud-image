@@ -1,0 +1,25 @@
+// 文档教程: https://uniapp.dcloud.net.cn/uniCloud/schema
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": false
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+    "token":{
+      "bsonType":"string",
+      "title":"用户token"
+    },
+    "url":{
+      "bsonType":"string",
+      "format":"url",
+      "title":"文件地址"
+    }
+	}
+}
