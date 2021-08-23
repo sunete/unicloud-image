@@ -10,7 +10,7 @@ Fork 自 [lscho/uniCloud-image](https://github.com/lscho/uniCloud-image)
 
 方式二：直接下载
 
-[https://github.com/lscho/uniCloud-image/archive/main.zip](https://github.com/lscho/uniCloud-image/archive/main.zip)
+<https://github.com/sunete/unicloud-image/archive/main.zip>
 
 
 2.使用 HBuilderX 导入项目文件
