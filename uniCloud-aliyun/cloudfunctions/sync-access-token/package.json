@@ -1,0 +1,24 @@
+{
+  "name": "sync-access-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uni-config-center": "file:../../../uni_modules/uni-config-center/uniCloud/cloudfunctions/common/uni-config-center"
+  },
+  "cloudfunction-config": {
+    "memorySize": 128,
+    "timeout": 5,
+    "triggers": [{
+      "name": "myTrigger",
+      "type": "timer",
+      "config": "0 0 */1 * * * *"
+    }],
+    "path": ""
+  }
+}

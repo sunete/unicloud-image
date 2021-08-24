@@ -1,6 +1,6 @@
 {
-    "name" : "免费图床",
-    "appid" : "__UNI__0A45DFF",
+    "name" : "美味千千图床",
+    "appid" : "__UNI__EC95AA8",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -69,8 +69,8 @@
         "enable" : false
     },
     "h5" : {
-        "title" : "免费图床",
-        "domain" : "",
+        "title" : "美味千千图床",
+        "domain" : "static-6573695b-4358-469c-beaa-03689077ed0d.bspapp.com",
         "router" : {
             "mode" : "history"
         },

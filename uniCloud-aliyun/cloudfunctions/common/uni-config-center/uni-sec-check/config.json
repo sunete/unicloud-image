@@ -1,0 +1,8 @@
+{
+  "provider": {
+    "mp-weixin": {
+      "appid": "wx9a430cc49d2d5910",
+      "appsecret": ""
+    }
+  }
+}
