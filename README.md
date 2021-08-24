@@ -6,7 +6,9 @@
 
 方式一：使用 git clone
 
-`https://github.com/sunete/unicloud-image.git`
+```
+git clone https://github.com/sunete/unicloud-image.git
+```
 
 方式二：直接下载
 
